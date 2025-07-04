@@ -1,0 +1,13 @@
+rich
+outlines
+ipykernel
+ipywidgets
+python-dotenv
+hf_transfer
+transformers
+accelerate
+datasets
+openai
+langchain_google_genai
+cryptography
+# pip install flash-attn --no-build-isolation

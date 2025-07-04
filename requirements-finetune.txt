@@ -1,0 +1,7 @@
+evaluate 
+bitsandbytes
+datasets 
+fsspec
+peft
+matplotlib
+# pip install flash-attn --no-build-isolation
