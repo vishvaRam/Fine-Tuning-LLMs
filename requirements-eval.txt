@@ -8,6 +8,7 @@ transformers
 accelerate
 datasets
 openai
+peft
 langchain_google_genai
 cryptography
 # pip install flash-attn --no-build-isolation
