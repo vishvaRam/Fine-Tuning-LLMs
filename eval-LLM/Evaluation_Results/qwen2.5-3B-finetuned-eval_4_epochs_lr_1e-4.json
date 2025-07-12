@@ -1,0 +1,612 @@
+{
+    "evaluation_results": [
+        {
+            "question": "What prompted the designation of March 31, 2024, as a working day for government financial activities in India?",
+            "ground_truth_answer": "To guarantee that all governmental income and outgoings were incorporated into the 2023-24 fiscal year, the Controller General of Accounts of the Indian government suggested designating March 31, 2024, as a working day. This ensures an exact computation of the Indian government's cash reserves as they stood on March 31, 2024.",
+            "generated_answer": "To ensure all transactions pertaining to receipts and payments of Government of India accounts were accounted for within fiscal year 2023-24, the date was designated as a working day. This decision aligns with recommendations from various institutions including The Institute of Chartered Accountants of India (ICAI), National Stock Exchange of India Ltd., Bombay Stock Exchange Ltd., Clearing Corporation of India Ltd., Reserve Bank of India's Monetary Policy Committee, and Department of Economic Affairs, Ministry of Finance, Govt. of India.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What categories of loans are classified as secured for Primary (Urban) Co-operative Banks?",
+            "ground_truth_answer": "Advances secured by supply bills drawn on government entities or state-controlled corporations, along with required inspection reports or validated challans, are not categorized as unsecured. Furthermore, advances backed by trust receipts, domestic Document against Acceptance (D/A) bills under letters of credit, and domestic D/A bills with a payment term of 90 days or less are also regarded as secured. Loans to salaried individuals against personal guarantees, where the relevant Co-operative Societies Act requires wage deductions for loan repayment and the bank enforces this condition, are also treated as secured.",
+            "generated_answer": "Primary (Urban) Co-operative Banks classify certain loan types as secured. These include direct agricultural advances backed by government guarantees or insurance schemes; individual housing loans up to \u20b950 lakh that adhere strictly to guidelines issued under Prabhakar Committee recommendations; commercial real estate financing where banks hold first mortgage rights over assets valued at least 80% of the outstanding amount; infrastructure finance against advance land grants held outright by borrowers; working capital limits supported by gold deposits from individuals or their families without any second security being accepted; and credit facilities provided alongside educational institution take-off loans guaranteed by institutions like UGC/NABARD/SCRA etc., ensuring no other bank has pre-existing exposure to these accounts.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What are the limitations on Urban Co-operative Banks (UCBs) when it comes to funding Non-Banking Financial Companies (NBFCs), and what requirement must be met to include leasing or hire-purchase companies as members?",
+            "ground_truth_answer": "With the exception of those involved in hire-purchase or leasing, Urban Co-operative Banks (UCBs) are not allowed to provide financial assistance to Non-Banking Financial Companies (NBFCs). Furthermore, UCBs need to get permission from the Registrar of Co-operative Societies before accepting leasing or hire-purchase firms as members if those firms do other things besides just leasing and hire-purchase.",
+            "generated_answer": "Urban Co-operative Banks (UCBs) face restrictions on providing credit facilities to Non-Banking Financial Companies (NBFCs). Specifically, direct loans granted by UCBs to NBFCs, excluding housing finance or commercial real estate securitization concerns, cannot exceed 20% of total advances. Additionally, if an accommodation advance exists between two banks where one bank finances the other's activities without recourse for repayment issues within normal lending practices, this member relationship requires prior approval from the Registrar of Cooperative Societies regarding compliance under Section 35B(1A) of the Banking Regulation Act, 1949. Lease or Hire-Purchase companies that act more like traders than lenders should also meet specific criteria before being admitted as members.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In the context of the Fully Accessible Route (FAR), how are non-resident investments in Sovereign Green Bonds issued during the fiscal year 2023-24 handled?",
+            "ground_truth_answer": "For the fiscal year 2023-24, the Indian government's Sovereign Green Bonds are classified by the RBI as 'specified securities,' making them available for investment by non-resident investors through the Fully Accessible Route (FAR), thereby removing investment limitations and aligning their investment process with that of domestic investors.",
+            "generated_answer": "For the fiscal year 2023-24, all non-resident investments made through the Fully Accessible Route (FAR) for Sovereign Green Bonds will be treated as 'non-permanent resident investments'. This means they cannot be considered part of the stock of foreign investment notified under ROW II(a). However, these bonds can still qualify for concessional finance from the Export Credit Guarantee Corporation of India Ltd. (ECGC).",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you outline the primary procedures and prerequisites for a Sovereign Gold Bond application?",
+            "ground_truth_answer": "Applying for Sovereign Gold Bonds necessitates filling out the official application form, specifying the quantity of gold needed in grams, and including the applicant's complete name, address, and a valid PAN card issued by the Income Tax Department.",
+            "generated_answer": "The Sovereign Gold Bond scheme allows investors to subscribe to bonds representing gold. To apply, one must use the prescribed form, clearly stating the quantity of gold in grams along with the applicant's full name and address, accompanied by valid PAN details issued by the Income Tax Department. Applications without complete or necessary information will not be considered. The bond issuance occurs annually through auctions conducted by the Reserve Bank of India, offering choices between fixed dates and flexible timelines as announced later.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "How does the Reserve Bank of India determine which bank will be the lead bank in a newly established district, and what is the purpose of this designation?",
+            "ground_truth_answer": "When a new district is established, the Reserve Bank of India designates a particular bank to spearhead banking and developmental initiatives in that district. This guarantees concentrated efforts towards financial accessibility and economic advancement in the newly created region.",
+            "generated_answer": "When a new district is formed within a state where there was previously no separate district administration under the Lead District Manager Scheme by the Reserve Bank of India, the central government designates one Scheduled Commercial Banks as the 'Lead Bank'. This ensures effective implementation of developmental activities and initiatives for economic progress.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In what situations can transferors be excused from the Minimum Holding Period rule when they are transferring receivables that they got through factoring?",
+            "ground_truth_answer": "Transferors meeting specific criteria are not required to adhere to the Minimum Holding Period (MHP) when transferring receivables obtained through factoring. This exemption applies if the remaining maturity of the receivables is 90 days or less at the point of transfer, and the transferee has appropriately assessed the creditworthiness of the bill's drawee before the acquisition of the receivables.",
+            "generated_answer": "When accounts transferred under factoring arrangements exhibit 'fit and proper' characteristics, such as being free of fraud allegations or delinquencies exceeding statutory limits for government dues and other commercial credits, the original transferor may not need to adhere to the standard three-year holding period before reselling these receivables. This exemption applies regardless of whether an investment company has purchased any portion of the residual risk exposure after hedging against default risks associated with individual borrower entities like traders and manufacturers. However, all other provisions within the existing framework regarding minimum holdings remain applicable.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What is the correlation between the asset size of a State Co-operative Bank or Central Co-operative Bank and the minimum number of professional staff an audit firm must have?",
+            "ground_truth_answer": "The requisite number of professional staff at an audit firm is determined by the asset value of the State Co-operative Bank (StCB) or Central Co-operative Bank (CCB) under audit. Specifically, banks possessing assets exceeding \u20b915,000 crore necessitate a minimum of 8 professional staff members. Those with assets ranging from \u20b91,000 crore to \u20b915,000 crore require at least 4, while banks holding assets up to \u20b91,000 crore must have a minimum of 2.",
+            "generated_answer": "For banks having assets equal to or above Rs.150 crore, an audit firm needs at least 20 full-time equivalent (FTE) professionals for statutory audits; for assets below Rs.150 crore but up to Rs. 75 crore, it requires at least 10 FTEs. A 'full-time-equivalent' refers to one person working 48 hours per week during normal office hours. The requirement increases proportionately if the bank's assets exceed these thresholds. For specialized co-operatives serving weaker sections such as SC/ST/SBD/BPLSHG members, even if their total assets fall under the specified limits, they may still be considered large-scale institutions requiring a higher ratio of professionally qualified personnel.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What are the standard sanctions applied to those on the Al-Qaida Sanctions List?",
+            "ground_truth_answer": "Individuals and organizations on the Al-Qaida Sanctions List are subject to penalties including freezing of assets, prohibition of travel, and restrictions on weapons.",
+            "generated_answer": "The Al-Qaida Sanctions List includes individuals and entities subject to an assets freeze, travel ban, and arms embargo. These measures were established under Section 51A of the Unlawful Activities (Prevention) Act, as amended by the Prevention of Terrorism (Patriotism) Act amendments implemented in 2007.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Could you describe the rules for Scheduled Commercial Banks when determining borrowing limits for Call and Notice Money Markets?",
+            "ground_truth_answer": "For Call and Notice Money Markets, Scheduled Commercial Banks (excluding small finance banks and payment banks) have the autonomy to define their borrowing limits, subject to internally approved limits and regulatory prudential inter-bank liabilities limits as defined by the Department of Regulation.",
+            "generated_answer": "Scheduled Commercial Banks should establish their own internal procedures for setting maximum permissible borrowings from other banks under call or notice money conditions. These limit calculations exclude inter-bank loans within the timeframes specified by prudential norms regarding fund-based deposits. The overall bank debt ceiling does not include funds borrowed against government securities held as reserves; these positions must adhere to specific guidelines approved by the Board of Directors.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What are the required qualifications and experience levels for audit firms to be considered eligible for conducting audits of State Co-operative Banks (StCBs) and Central Co-operative Banks (CCBs)?",
+            "ground_truth_answer": "Audit firms aiming to audit State Co-operative Banks (StCBs) and Central Co-operative Banks (CCBs) must fulfill particular standards concerning the number of full-time partners (FTPs), their educational background, the firm's background in auditing, and its professional workforce. These standards are dependent on the asset size of the StCB or CCB as of March of the preceding fiscal year. As an example, firms auditing StCBs/CCBs with assets exceeding \u20b915,000 crore must have at least 5 FTPs, with a minimum of 4 Fellow Chartered Accountants (FCAs) who have been with the firm for a minimum of three years, and a minimum of 2 FTPs holding CISA/ISA/DISA certifications. The firm should also demonstrate a minimum of 8 years of auditing experience, including at least 2 years of statutory audit experience in StCBs/CCBs, alongside a minimum of 8 professional staff members. These benchmarks are designed to guarantee that the audit firms are equipped with the required knowledge and background to perform comprehensive and dependable audits of cooperative banks.",
+            "generated_answer": "To ensure professional competence and adequacy of staff, only Chartered Accountant-led audit firms meeting specific criteria are permitted to conduct statutory audits of both State Co-operative Banks (StCBs) and Central Co-operative Banks (CCBs). These requirements include having at least 25 full-time partners or associate partners qualified as Chartered Accountants, maintaining an archive of compliance certificates from various regulatory bodies reflecting their adherence to prudential norms, possessing the necessary technical skills within their firm's structure and management systems, ensuring sufficient time commitment from professionals involved in statutory auditing engagements, providing internal control evaluations tailored to banks' size/complexity/data volume, offering timely reports regarding Statutory Auditor re-appointment/appointment by CERSAI/RCSA, establishing effective communication channels between field-level and senior audit personnel, adhering strictly to timelines set forth by regulators like NABARD/CERSAI etc., avoiding dual assignments except under exceptional circumstances such as mergers/acquisitions/expansion cases where concurrent appointments may be permissible during limited transitional periods.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What are the main regulatory responsibilities of regulated organizations concerning the Unlawful Activities (Prevention) Act (UAPA), including any changes to its appendices?",
+            "ground_truth_answer": "Entities that are regulated are required to follow the UAPA Order's guidelines, disclose information on accounts similar to those of individuals or entities on specified lists to FIU-IND, and adhere to changes in Schedules I and IV of the UAPA.",
+            "generated_answer": "Regulated entities must adhere strictly to sections 51, 52, and 53 of the Unlawful Activities (Prevention) Act, 1967. They should also take note of any amendments made to Appendix I and IV of the UAPA lists, as these could impact their operational procedures and compliance measures.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What categories of banks have a mandate to keep a Cash Reserve Ratio (CRR) with the Reserve Bank of India?",
+            "ground_truth_answer": "The banks that must maintain a Cash Reserve Ratio (CRR) with the Reserve Bank of India include: Scheduled Commercial Banks, Regional Rural Banks, Scheduled Primary (Urban) Co-operative Banks, and Scheduled State Co-operative Banks.",
+            "generated_answer": "Scheduled Commercial Banks, including Small Finance Banks, must maintain a Cash Reserve Ratio (CRR). Central Co-operative Banks and State Cooperative Banks also adhere to this requirement. However, District Central Co-operative Banks do not need to maintain CRR as per existing guidelines.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Under the Liberalised Remittance Scheme, what educational costs can Authorised Persons facilitate remittances for to foreign universities or institutions situated in IFSCs?",
+            "ground_truth_answer": "Authorised Persons are allowed to process remittances from resident individuals for educational expenses, specifically for tuition fees for courses at foreign universities or institutions in International Financial Services Centres (IFSCs). These courses must be listed in gazette notification no. SO 2374(E) dated May 23, 2022, and the remittances must be classified under the 'studies abroad' purpose as per Schedule III of the Foreign Exchange Management (Current Account Transactions) Rules, 2000.",
+            "generated_answer": "Authorised Persons under the Liberalised Remittance Scheme should permit residents to remit funds up to USD 10 lakh at any given time to pay fees owed by their undergraduate or postgraduate students studying abroad. This applies whether the courses are conducted online or offline within international Financial Services Centres (IFSCs). Additionally, these entities may allow remittances against valid D-Forms submitted by individuals pursuing Doctoral degree programs from overseas countries through domestic banks.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "When an Asset Reconstruction Company (ARC) is looking to appoint a director, what information about the candidate's Permanent Account Number (PAN) is required?",
+            "ground_truth_answer": "In the process of nominating a new director, an Asset Reconstruction Company (ARC) is required to furnish the candidate's PAN details, along with their income tax returns for the past three years, including the dates of submission and the corresponding tax amounts paid.",
+            "generated_answer": "An Asset Reconstruction Company must provide details of any investments made by directors or their relatives in entities registered under section 29A of the Foreign Exchange Management Act, including PAN numbers.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Can you explain how the maximum permissible interest rate is computed for new Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits?",
+            "ground_truth_answer": "What formula is used to find the maximum interest rate for new Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits? The highest interest rate permitted on new Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits is calculated using the Overnight Alternative Reference Rate (ARR) for the relevant currency/swap, with an additional basis points allowance based on the deposit duration. Specifically, for deposits maturing between 1 and 3 years, the limit is Overnight ARR plus 250 basis points, while for deposits maturing between 3 and 5 years, it is Overnight ARR plus 350 basis points.",
+            "generated_answer": "The maximum interest payable on fresh Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits can be calculated using either an Overnight Alternative Reference Rate plus 250 basis points or a One-Year Swap Yield referenced against USD-MIBOR. The specific methodology used must comply with guidelines set by the Department of Regulation regarding Maximum Permissible Interest Rates on Advances.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Why are Lead Banks designated when a new district is established within a state?",
+            "ground_truth_answer": "Lead Banks are designated for newly established districts to spearhead initiatives for financial inclusion and overall development.",
+            "generated_answer": "When a new district is formed, it may be assigned a specific code for identification. Additionally, a lead bank will be appointed to coordinate banking development efforts in that particular district.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the standards defined for Note Sorting Machines in India, and what are the requirements for banks concerning these standards?",
+            "ground_truth_answer": "In order to improve the processing of banknotes, the Bureau of Indian Standards has released 'IS 18663: 2024', which provides specific standards for Note Sorting Machines. Banks are required to use NSM models that comply with these standards and have received BIS certification.",
+            "generated_answer": "To enhance banknote sorting accuracy and reduce human intervention during currency handling operations beyond dispensing from cash recyclers or sorters, the Bureau of Indian Standards has issued an Indian Standard specifying technical specifications. Banks must adhere to these norms when acquiring note sorting machines.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Under which law is the Reserve Bank of India authorized to provide instructions concerning foreign exchange?",
+            "ground_truth_answer": "The Reserve Bank of India's authority to regulate foreign exchange matters is derived from the Foreign Exchange Management Act, established in 1999.",
+            "generated_answer": "The Foreign Exchange Management Act 1999 empowers the Reserve Bank of India to issue directives regarding foreign exchange transactions.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What is the maximum duration for advance payments by Qualified Jewelers for silver imports via the India International Bullion Exchange (IIBX), as authorized by Category-I Authorised Dealer banks?",
+            "ground_truth_answer": "Category-I Authorized Dealer banks are permitted to authorize Qualified Jewelers to process advance payments for importing silver via the India International Bullion Exchange (IIBX) for a duration not exceeding eleven days.",
+            "generated_answer": "Category-I AD banks can permit Qualified Jewelers to make advance payments up to USD 100 million at any time. This authorization allows for short-term working capital needs during the import process. The limit must be maintained separately within each bank's foreign exchange accounts and cannot exceed the sanctioned amount without prior approval from the Department of Directorate General of Foreign Trade \u2013 Commerce & Industry, Government of India.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In the context of Indian banking, could you explain the meaning of the incremental Cash Reserve Ratio (I-CRR) and its role?",
+            "ground_truth_answer": "The incremental Cash Reserve Ratio (I-CRR) refers to an extra reserve mandate set by the Reserve Bank of India (RBI) for certain banks. It requires them to hold a stipulated portion of the rise in their Net Demand and Time Liabilities (NDTL) with the RBI, supplementing the standard Cash Reserve Ratio (CRR). The RBI employs I-CRR as a mechanism to regulate the amount of money circulating within the banking network.",
+            "generated_answer": "The incremental Cash Reserve Ratio refers to an increase made by banks beyond what is required under existing guidelines. This additional reserve must be kept as cash or in the form of government securities held with the Reserve Bank of India. The purpose behind this measure is to further enhance liquidity management within the banking system.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the main modifications to the capital adequacy guidelines concerning the trading book and AFS-reserve following the amendment?",
+            "ground_truth_answer": "In accordance with the Investment Master Direction, revisions to capital adequacy standards have established the 'Held for Trading (HFT)' accounting sub-classification and AFS-reserve as components of regulatory capital.",
+            "generated_answer": "The existing definition of 'Trading Book' has been retained, but certain changes have been introduced. The treatment of investments made by commercial banks in Long Term Subordinated Debentures issued by other banks within their 10% exposure ceiling for regulatory capital purposes was modified as per paragraph 28(5A)(ii). Additionally, instructions regarding investment reserve created under section 13-A of FEMA, 1999 were incorporated into paragraphs 6(a) and 7 of the Master Direction \u2013 Investment Portfolio - Non-SLR Guidelines \u2013 Commercial Banks.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Why does the UN Security Council keep updated lists of people and groups connected to ISIL (Da'esh), Al-Qaida, and the Taliban?",
+            "ground_truth_answer": "To support the enforcement of sanctions and other restrictive actions, the United Nations Security Council (UNSC) keeps current lists of people and organizations connected to ISIL (Da'esh), Al-Qaida, and the Taliban.",
+            "generated_answer": "The United Nations Security Council maintains lists of individuals and entities associated with ISIL (Da'esh), Al-Qaida, and the Taliban. These lists include names entered into resolutions adopted by the Security Council concerning these threats. The inclusion signifies that these listed persons or entities meet specific criteria established under UNSC resolution 2610(2021).",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What particular actions must agency banks undertake to guarantee precise processing and reporting of government financial activities at fiscal year-end?",
+            "ground_truth_answer": "To guarantee comprehensive accounting of government transactions within the fiscal year, agency banks are mandated to maintain standard operational hours at specified branches on March 31 for in-person transactions. Furthermore, they should sustain processing of NEFT and RTGS transactions until midnight on March 31. Specific clearing protocols are implemented for government checks, and the timeframe for reporting central and state government transactions to the RBI is extended until noon on April 1.",
+            "generated_answer": "Agency banks should take steps to ensure that all government transactions for revenue receipts and payments are accounted for within the same financial year. This includes considering special sessions or ad-hoc meetings held by state governments during April, specifically regarding pension disbursements, which may necessitate extended operations from midnight on March 31st until noon on April 1st. The bank's Controlling Office General will decide what action needs to be taken under Section 46A of FEMA 20/75-RB dated May 19th, 1988, concerning Foreign Currency Transactions other than Exchange Stamps when dealing with these delayed transactions resulting from special sessions.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you please specify the updated Cash Reserve Ratio (CRR) rates for banks, including the dates on which these changes take effect?",
+            "ground_truth_answer": "Starting the reporting period that commences December 14, 2024, the CRR for all banks will decrease to 4.25% of NDTL. Subsequently, from the fortnight starting December 28, 2024, it will be further lowered to 4.00% of banks' NDTL.",
+            "generated_answer": "The Cash Reserve Ratio (CRR) has been decreased by 50 basis points. The CRR rate applicable from May 02, 2024 onwards will be 4.75 percent. Subsequently, it shall be reviewed thereafter at fortnightly intervals as per Table III(a).",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What steps should card-issuing banks take to activate Card-on-File (CoFT) token generation, and what are the stipulations for obtaining customer agreement and verification?",
+            "ground_truth_answer": "To facilitate Card-on-File (CoFT) token creation, card issuing banks can utilize their mobile and online banking platforms. Customer authorization is mandatory, and it must be verified using Additional Factor Authentication (AFA). AFA can be integrated if a cardholder opts to tokenize their card with several merchants.",
+            "generated_answer": "Card-issuing banks must review their systems/applications/platforms/protocols/processes to ensure seamless activation of CoFT token generation. This includes simplifying KYC documentation requirements through self-certification or digital means like Digital Certificates as per section 51A of the Master Direction \u2013 Cards Acceptance Scheme (CAS). Banks also need explicit consent from customers via ACH or mobile/internet banking channels, providing option to revoke tokens at any time by simple and affordable methods compliant with sections 64 and 90 of MD-CAS.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Concerning the Account Aggregator (AA) network, what technical standards must Housing Finance Companies (HFCs) follow?",
+            "ground_truth_answer": "To ensure secure and seamless data exchange within the Account Aggregator (AA) framework, Housing Finance Companies (HFCs), whether functioning as 'Financial Information Providers' or 'Financial Information Users', must adhere to the technical standards set forth by Reserve Bank Information Technology Private Limited (ReBIT).",
+            "generated_answer": "Account aggregators should adhere to the specifications provided by the Financial Institutions Technology Association of India Ltd. (FITAI), as updated periodically, for all technology-related aspects concerning their interactions within the HFC-ACI ecosystem. These updates also apply when new technologies emerge that could enhance business operations or customer experience.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In Sikkim's Soreng district, which bank serves as the primary financial institution?",
+            "ground_truth_answer": "For the Soreng district in Sikkim, State Bank of India holds the position of the lead bank.",
+            "generated_answer": "The State Bank of India has been assigned exclusive responsibility for providing banking services within the newly formed Soreng district.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "How should Non-Banking Financial Company Peer to Peer (NBFC-P2P) lending platforms present their name and brand to the public?",
+            "ground_truth_answer": "NBFC-P2P lending platforms are required to clearly show their official registered name (exactly as it is on their registration certificate) together with their brand name (if they have one) on all of their customer-facing materials. This includes advertisements and any communications with people involved with the platform.",
+            "generated_answer": "Lending platform names or brands promoted by NBFC-P2Ps must be distinctly separated from any affiliations with stock exchanges. The logo/name used for promotions should clearly reflect that it belongs to an individual P2P company rather than being associated with another entity like a stock exchange.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the changes that the Security Council Committee implemented on the ISIL (Da'esh) and Al-Qaida Sanctions List, and what is the nature of these changes?",
+            "ground_truth_answer": "Following the 2021 Annual Review, conducted as per paragraphs 90 and 91 of resolution 2610 (2021), the Security Council Committee has modified 102 entries on the ISIL (Da'esh) and Al-Qaida Sanctions List, which involves adjustments to the assets freeze, travel ban, and arms embargo as specified in paragraph 1 of Security Council resolution 2610 (2021).",
+            "generated_answer": "The Security Council Committee concerning ISIL (Da'esh), Al-Qaida, and associated individuals, groups, undertakings, and entities amended entries on its sanctions list. These amendments specify individuals and entities subject to assets freeze, travel ban, and arms embargo as outlined under paragraph 1(a)(i)-(iii) of UNSC resolution 2603 (2021).",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Why is it important for a bank to be listed in the Second Schedule of the Reserve Bank of India Act, 1934?",
+            "ground_truth_answer": "Listing in the Second Schedule of the Reserve Bank of India Act, 1934, indicates that a bank has met the RBI's benchmarks for operational stability and financial health, thus enabling it to avail itself of particular services and benefits from the RBI.",
+            "generated_answer": "The Second Schedule of the Reserve Bank of India Act, 1934 lists banks that have satisfied certain conditions prescribed by law. Banks included in this schedule enjoy several privileges, such as access to borrowing facilities from the central bank and clearing house memberships. Exclusion may hinder a bank's ability to function effectively within the broader banking system.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Could you specify the exact reporting requirements for Asset Reconstruction Companies (ARCs) concerning unrealized management fees, including their classification by net asset value percentage, aging, and provisions?",
+            "ground_truth_answer": "ARCs are required to provide details on the outstanding unrealized management fees, specifically including instances where the security receipts' net asset value is less than 50% of their face value. Disclosure should also include unrealized amounts, broken down by the following timeframes: exceeding 180 days but within 1 year, exceeding 1 year but within 3 years, and exceeding 3 years. Moreover, ARCs must disclose provisions for unrealized management fees, along with the net receivable amount for these fees.",
+            "generated_answer": "Asset Reconstruction Companies (ARCs) must report all amounts where the unrealized management fee has an accrued interest component as part of 'Interest Receivable', along with specific subcategories: Accrued Interest Receivable - Where Net NPV <10% & > 5%, Accrued Interest Receivable \u2013Where Net NPV \u2265 10&<25% &>5%, and so forth. They also need to disclose other unrealized amount under 'Unrealised Amount' with appropriate details such as outstanding amount, number of accounts, overdue days, NPA status, and provisioning required. Finally, ARCs should provide total balances categorized into three groups: Unamortized Balances brought forward from previous period's return, new balances identified during the current quarter, and adjustments made between two quarters.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you summarize the main changes in the updated Master Direction on Risk Management and Inter-Bank Dealings concerning the reporting of OTC foreign exchange and foreign currency interest rate derivative contracts?",
+            "ground_truth_answer": "The revised Master Direction on Risk Management and Inter-Bank Dealings modifies the reporting of over-the-counter (OTC) foreign exchange derivative contracts and foreign currency interest rate derivative contracts to the Clearing Corporation of India Ltd's Trade Repository, including adjustments to the reporting structure, method, and schedule.",
+            "generated_answer": "The revised Master Direction outlines amendments regarding the reporting of Over-The-Counter (OTC) Foreign Exchange Derivative Contracts and Foreign Currency Interest Rate Derivatives transactions undertaken by Authorised Dealers. These amendments align with directives issued under Section 10(4) of the Foreign Exchange Management Act, 1999 and replace relevant instructions from paragraphs 57 to 63 of the existing directions dated July 28, 2021.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "According to which sections of the Foreign Exchange Management Act were the Reserve Bank of India (Margin for Derivative Contracts) Directions, 2024, released?",
+            "ground_truth_answer": "The Reserve Bank of India (Margin for Derivative Contracts) Directions, 2024, are established in accordance with Section 10, subsection 4, and Section 11, subsection 1, of the Foreign Exchange Management Act of 1999.",
+            "generated_answer": "The Reserve Bank of India (Margin for Derivative Contracts) Directions, 2024 have been issued under Sections 10(4) and 11 read with Section 9A of the Foreign Exchange Management Act, 1999. These directions supersede any previous instructions pertaining to margin requirements for derivative contracts issued by the Reserve Bank.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Currency chest branches are required to assist connected and unconnected branches by taking 2000 rupee notes and supplying banknotes of other denominations. If banks have problems getting cash, they can get in touch with the RBI Issue Office.",
+            "ground_truth_answer": "What actions are currency chest branches expected to take concerning 2000 rupee notes, and what options are available to banks should they experience a shortage of cash?",
+            "generated_answer": "To ensure customer service and address issues at currency chests: Currency Chest branches must take care that their connected and all other branches receive adequate supplies of small denomination currency notes for general circulation needs. They should also help solve any difficulties faced by linked branches regarding receiving sufficient funds from the RBI Issue Offices or State Level Factories under Cash Credit facilities against Government Demand Notes.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What resource provides banks with guidance on deciding the scope of branch or business coverage in a statutory audit?",
+            "ground_truth_answer": "Appendix III contains the guidelines that banks should consult to determine the scope of branch or business coverage for a statutory audit.",
+            "generated_answer": "The auditor's report issued under section 145 of the Companies Act, 2013 serves as an authoritative reference for determining the appropriate level of branch or business coverage. This report delineates what constitutes 'usual course' activities across various sectors like agriculture, non-agriculture commerce & industry, real estate, etc., helping auditors assess whether their offered services align with these guidelines when performing statutory audits.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Under what laws and regulations do eligible parties participating in the Sovereign Green Bond program fall?",
+            "ground_truth_answer": "Unless explicitly stated differently, the Government Securities Act of 2006, the Foreign Exchange Management Act of 1999, and any associated rules, regulations, and instructions issued by the Reserve Bank of India under these acts apply to those who are eligible to participate in the Sovereign Green Bond scheme.",
+            "generated_answer": "Eligible participants within the sovereign green bond framework must adhere strictly to all applicable laws outside their jurisdiction. This includes any international agreements they may be bound by when engaging in transactions under this scheme.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "If a bank is under PCA, what steps for NPA reduction could the RBI mandate?",
+            "ground_truth_answer": "Under PCA, the RBI could instruct the bank to develop a plan with set deadlines to lower its Non-Performing Assets (NPA) and to create a strategy to control new NPAs. This also involves providing an Action Plan, approved by the Board, to bring Net NPAs under Risk Threshold 1.",
+            "generated_answer": "When a bank is placed under Principal Action Committee monitoring, the RBI may direct that specific measures be undertaken by the bank towards reducing its net NPAs. These measures can include restrictions on expense categories such as salaries/payroll payments, non-productive expenditures like interest during shut-down periods or holidays, capital expenditure plans, funding new business ventures/expanded existing ones beyond core businesses, dividend declarations/payouts from profits retained within the bank, conversion of surplus funds into shares/drawings against share allotments, and any other expense item likely to cause strain on fund creation processes without corresponding asset quality enhancement. The bank must also furnish an action plan indicating how these guidelines will be implemented.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What aspects should banks consider while providing loans to private builders for housing projects to guarantee reasonable pricing for the final purchasers?",
+            "ground_truth_answer": "To ensure equitable pricing for homebuyers, banks financing private builders must verify that the final price reflects the land's documented cost, the real construction expenses, and a fair profit, excluding any speculative components.",
+            "generated_answer": "To ensure transparency and avoid excessive profit margins being passed onto buyers by intermediaries like developers or agents during loan disbursement, banks may require these entities to disclose any 'Gross Profit Percentage' at various stages of construction. This includes disclosing their share of such gross profits if they participate as lenders alongside other finance providers against housing property loans up to \u20b910 lakh per borrower. Banks have discretion whether this condition needs to be considered part of prudential lending standards when evaluating individual loan applications.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What are the specific criteria for defining a 'bulk deposit' across the various classifications of Urban Co-operative Banks (UCBs)?",
+            "ground_truth_answer": "The definition of a bulk deposit varies for Urban Co-operative Banks (UCBs). Specifically, for Scheduled UCBs in Tier 3 and 4, it refers to a single term deposit in Rupees of Rupees one crore or more. For all other UCBs, it is a single term deposit in Rupees of Rupees fifteen lakh or more.",
+            "generated_answer": "The definition of bulk deposits varies by UCB classification. For Tier 1 scheduled urban co-operative banks as of March 31st each year, a single Rupee term deposit exceeding five crore rupees qualifies as a bulk deposit. Similarly, a single Rupee term deposit amounting to ten lakh rupees or more from October 2024 onwards also constitutes a bulk deposit within this category. For other UCBs classified as non-tier-I as of March 31st each year, a single Rupee term deposit worth twenty-five lakhs rupees or above becomes a bulk deposit effective since April 01, 2025. When considering money under different currency denominations combined into one transaction, any individual Rupee equivalent of an amount greater than Rs. Five Crore shall be treated as a Bulk Deposit, irrespective of whether it arises out of a single occurrence or multiple occurrences.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the reporting responsibilities that authorized depositories and clearing corporations have to the Reserve Bank of India regarding Sovereign Green Bonds?",
+            "ground_truth_answer": "Regarding Sovereign Green Bonds, authorized depositories are required to provide the Reserve Bank of India (RBI), or an appointed agency, with a daily statement detailing their holdings, adhering to the RBI's specified format and procedure. They also need to furnish the RBI with information on the beneficial owners, as reported by investors, following the RBI's guidelines for format, method, and frequency. Furthermore, authorized depositories and clearing corporations must supply any other transaction-related data they possess or receive from clients, as requested by the RBI, within the defined format and schedule. Any significant event that disrupts securities settlement or any cases of market misconduct must be promptly reported to the RBI.",
+            "generated_answer": "Authorized depositories must submit an end-of-day statement of holdings to the Reserve Bank of India's Financial Markets Regulation Department within five working days after each market close. They should also report details of all allotments made to retail investors via SMS alerts or email during allotted periods, along with transaction-wise purchase amounts and beneficiary names (without disclosing addresses). Furthermore, authorized depository members providing access facilities for investment into Sovereign Green Bond schemes need to furnish any additional information required by the Reserve Bank concerning these transactions. Finally, if there are instances where securities under repurchase agreements do not get rolled over before 5 p.m., or fail to settle correctly due to system failures etc., the authorizing depository needs to notify the Reserve Bank immediately.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the pre-debit notification rules for electronic mandates, noting any exemptions for automated FASTag and NCMC reloads?",
+            "ground_truth_answer": "According to the e-mandate rules, banks must notify customers a minimum of 24 hours in advance of any scheduled account debit. An exception exists: pre-debit notifications are not mandatory for automatic top-ups of FASTag and National Common Mobility Cards (NCMC) when the balance goes below a limit set by the customer.",
+            "generated_answer": "Financial institutions must send an email or SMS to customers at least 24 hours before debiting their accounts through standing instructions. However, this requirement does not apply when funds are being transferred from savings/current accounts to a loan account, as mandated by regulatory guidelines under prudential norms concerning customer consent for auto-renewal/repayment of credit facilities without prior explicit customer communication. Additionally, transactions involving Automated Collection Machines (ACMs)/ATM/debit cards/fastag/paytm/accounts recharged via NFC technology/National Common Mobility Cards (NCMC), including top-ups/refills/loadings, do not need a pre-debit notification due to their recurring nature and automation processes designed to prevent fraud.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Concerning banking and reporting practices in Chhattisgarh's new districts, what is the role of District Working Codes?",
+            "ground_truth_answer": "For reporting purposes, banks should utilize the designated District Working Codes when submitting Basic Statistical Returns (BSR) data for Chhattisgarh's recently established districts.",
+            "generated_answer": "When banks report data regarding their branches across newly formed districts within Chhattisgarh, they should utilize specific District Working Codes assigned by the National Payments Corporation of India. These codes help streamline payments processing and reconciliation for both bank systems and regulatory bodies.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "How should market participants approach the \"Price / Yield range setting\" option on the e-Kuber platform, and what is the procedure for canceling bids?",
+            "ground_truth_answer": "For those participating in auctions of Government Securities, it is recommended that the \"Price / Yield range setting\" feature on e-Kuber be used to avoid errors when submitting bids. Once the bidding period has ended, bid cancellation requests will not be accepted.",
+            "generated_answer": "Market participants must utilize the \"Price / Yield range setting\" feature within the e-Kuber platform before submitting bids or offers. This tool helps manage order sizes by defining upper and lower limits on bid/offer prices. To cancel submitted bids without needing approval from the Reserve Bank of India, traders can use the 'Bid Cancel' function through their clearing member's trading interface up until 15 minutes prior to the auction closing time; however, after this deadline, only exceptional circumstances will be considered when cancelling bids.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What compliance steps must regulated organizations take regarding Section 12A of the Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005, specifically in relation to individuals and entities sanctioned by the UNSC?",
+            "ground_truth_answer": "Entities that are regulated must follow the steps for enforcing Section 12A of the Weapons of Mass Destruction (WMD) and their Delivery Systems (Prohibition of Unlawful Activities) Act of 2005, as detailed in the Ministry of Finance, Government of India's Order from January 30, 2023. This involves following the combined lists of individuals and entities designated/sanctioned by the UNSC regarding non-proliferation concerning North Korea (DPRK) and Iran.",
+            "generated_answer": "Regulated Entities should adhere to the procedure for implementing Section 12A of the Weapons of Mass Destruction and their Delivery Systems (Prohibition of Unlawful Activities) Act, 2005. This includes complying with lists issued under this section, incorporating any amendments into their procedures, and ensuring strict adherence without exception or delay when dealing with transactions involving listed individuals and entities.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "How do Category-I Authorized Dealer banks ensure compliance with FEMA regulations when advising on guarantee agreements for residents?",
+            "ground_truth_answer": "AD Category-I banks have a responsibility to verify that any guarantee agreements they recommend to resident clients adhere to FEMA guidelines.",
+            "generated_answer": "Category-I Authorized Dealers must advise their clients strictly according to Foreign Exchange Management Act (FEMA), 2013 guidelines regarding guarantees. They should also adhere to any additional instructions issued by specific offices or departments within the Department of Economic Relations at the Reserve Bank of India concerning non-debt bearing capital instruments like guarantees from foreign sovereign entities.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "In Assam's new Tamulpur district, which bank is the designated Lead Bank?",
+            "ground_truth_answer": "For the newly created Tamulpur district in Assam, the State Bank of India will act as the Lead Bank.",
+            "generated_answer": "The State Bank of India has been assigned the responsibility of lead bank for the newly formed Tamulpur district.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What mechanisms are in place to modify the weighting of priority sector lending based on the level of credit flow in different districts, and what are the exact values that trigger these modifications?",
+            "ground_truth_answer": "In an effort to promote lending in areas with less priority sector credit and to disincentivize it in areas with more, increases in priority sector credit in specific districts with per capita PSL below \u20b99,000 will be given a greater weight of 125%. On the other hand, a reduced weight of 90% will be applied in districts where per capita PSL exceeds \u20b942,000. Districts that are not specifically identified will continue to have a weightage of 100%.",
+            "generated_answer": "To address regional disparities in priority sector finance, banks must increase the weightage given to incremental priority sector loans within identified districts where overall credit flows are less than 50% of the average annual loan volume over the preceding three years. Conversely, if credit flows exceed this threshold by more than 50%, the weight should be reduced or capped at 125%. The list of such districts is approved annually through mutual agreement between host country authorities and international financial institutions like IFSCCB. These adjustments apply both pre-shipment and post-shipment credits.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In what two ways can Prepaid Payment Instrument (PPI) providers facilitate UPI payments for their PPI users who have completed full KYC, and how do the authentication methods vary between these options?",
+            "ground_truth_answer": "There are a couple of ways PPI providers can provide UPI payment functionality to their fully KYC-compliant PPI users: either through their own PPI app or via third-party UPI apps. When the provider's app is used, the customer's existing PPI credentials are used for transaction authentication. Conversely, third-party UPI apps authenticate transactions using UPI credentials.",
+            "generated_answer": "Pre-paid Payment Instrument (PPI) providers must offer an option where UPI applications display all accounts linked to the PPI within the 'Pay Bills' or 'Wallet Transfer' sections. This allows seamless transactions without customers needing to navigate away from the UPI application. Additionally, authorized banks issuing debit cards under Retail Direct schemes may allow PPI holders to use the facility provided by third-party UPI applications. These arrangements require explicit customer consent and bank-specific authorization from the Customer Advisory Committee before offering this feature. For other PPI issuers not directly associated with state governments/agencies, facilitating UPI payment via third-party UPI apps is permitted only after obtaining express permission from the relevant State Government/District Collector through their official channels.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Under what circumstances can Urban Co-operative Banks finance agricultural operations?",
+            "ground_truth_answer": "UCBs are allowed to directly fund agricultural endeavors, but only for their members (excluding nominal ones) and without using intermediaries. Before providing credit, they need to get a 'no dues certificate' from current credit providers in the region. Banks should also follow the financing scales and security rules set by the RBI/NABARD.",
+            "generated_answer": "Urban Co-operative Banks may provide short-term loans up to \u20b91 lakh to farmers under various schemes operated by government departments for raising crops. They also have the authority to sanction medium- and long-term credit facilities ranging from \u20b950 crore upwards within prescribed limits as per their board-approved policy, which must be approved by their audit firm according to statutory requirements.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What is the effective date of the Exim Bank's agreement with the Government of Guyana, and what is the final date for funds to be distributed according to the Line of Credit?",
+            "ground_truth_answer": "The Exim Bank's accord with Guyana's government became effective on April 8, 2024. Funds must be distributed under the Line of Credit (LoC) no later than 48 months following the project's planned conclusion.",
+            "generated_answer": "Exim Bank has an arrangement with the Government of the Co-operative Republic of Guyana that came into effect from February 10, 2026. The last date for disbursal under this Agreement will be December 31, 2027.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What mechanisms are in place to modify the weighting of priority sector lending (PSL) performance to account for and rectify regional disparities observed across different districts?",
+            "ground_truth_answer": "To mitigate regional imbalances, districts are evaluated according to their per capita priority sector lending. Districts demonstrating lower per capita credit flow to the priority sector (below \u20b99,000) will receive an increased weight of 125% for incremental priority sector lending. Conversely, districts with higher credit flow (exceeding \u20b942,000 per capita) will be assigned a reduced weight of 90% for incremental lending to priority sectors. Districts not listed in Annexes IA and IB will retain the standard weightage of 100%.",
+            "generated_answer": "To address regional disparities in priority sector credit flow, Special Sub-Committees (SSCs) monitor district-wise PSL performance. If significant discrepancies are noted between actual achievements and targets set by banks or among various regions within a state/country region, the SSC may recommend modifications in individual bank targets as deemed necessary. The Board of Directors approves these target revisions after consulting State/District Level Banks' Forum members, considering any increase in Credit Guarantee Fund Trust For Micro and Small Enterprises (CGTMSE) guarantees that could be issued during the revised period to augment lending capacity if needed. The Reserve Bank will adjust grant support accordingly once notified; however, no additional central government grants shall be provided beyond the approved date. District Consultative Committee's (DCC) recommendations regarding incremental allocations should also align with this framework.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What is the required location for Non-Banking Financial Companies to report their credit or investment concentration limits, and what methodology should be used to calculate the exposure limit for fulfilling disclosure obligations?",
+            "ground_truth_answer": "In their yearly financial reports, Non-Banking Financial Companies should include their credit or investment concentration limits within the Account Notes. The calculation of the exposure limit for disclosure purposes must adhere to the guidelines set forth for Non-Banking Financial Companies - Middle Layer.",
+            "generated_answer": "Non-Banking Financial Companies must disclose any deviation from prescribed norms regarding credit or investment concentration at least where there has been an increase exceeding 5% above existing levels. This reporting can occur either during statutory returns submitted to the Department of Supervision within two months following such increases, or through separate disclosures via Form A/Rp. These reports should use net worth as of March 31st of the previous year when calculating permissible exposures, although banks may choose another date if agreed upon by auditors / statutory intermediaries. The calculation method for determining total eligible investments depends on whether these investments arise out of derivative transactions like forward foreign exchange contracts; in that case, specific methodologies apply both initially & subsequently.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the necessary procedures and notification protocols that a card issuer must adhere to when blocking, deactivating, or suspending a debit or credit card?",
+            "ground_truth_answer": "If a card issuer elects to block, deactivate, or suspend a debit or credit card, they are required to adhere to a standard operating procedure that has been sanctioned by their Board. Moreover, the cardholder must be promptly notified about the block, deactivation, or suspension, including the reasons behind it. This notification should be conveyed through electronic channels like SMS, email, or other accessible methods.",
+            "generated_answer": "When a card-issuer decides to block, deactivate, or suspend a debit/credit card for fraud prevention purposes, they should follow specific guidelines. The customer should be immediately informed about the action taken via SMS and email; if these channels aren't responsive, at least one communication method like voice call or letter should alert them promptly after the process concludes. Furthermore, an internal log detailing every transaction, along with the date, time, location, outcome, and actions taken by whom, must be maintained for each blocked account, ensuring thorough documentation throughout the investigation phase.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What actions should banks and NBFCs undertake concerning sectoral exposure limits for consumer credit portfolios?",
+            "ground_truth_answer": "To mitigate the risks involved with consumer credit, banks and NBFCs must define and implement limits, approved by their Boards, for different categories within consumer credit. These limits should be integrated into their risk management practices and should consider the unique risks associated with each type of consumer loan.",
+            "generated_answer": "Banks and Non-Banking Financial Companies (NBFCs) must review their existing sectoral exposure limits for various components within consumer credit portfolios. They need to ensure compliance with any revised regulatory ceilings imposed by the relevant authorities and implement necessary measures to manage these exposures effectively.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "How does the Reserve Bank of India handle the removal of circulars?",
+            "ground_truth_answer": "The RBI routinely assesses its existing circulars and may choose to revoke those that are outdated or no longer required.",
+            "generated_answer": "The Reserve Bank of India periodically reviews its issued circulars and may decide to withdraw them. This withdrawal signifies that the instructions contained within these circulars no longer hold legal force or effect under the laws and regulations previously referenced.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What responsibilities do supervised institutions have regarding accounts held by individuals or organizations identified by the United Nations Security Council as potential terrorists?",
+            "ground_truth_answer": "In compliance with Section 51A of the Unlawful Activities (Prevention) Act, 1967, regulated organizations are required to verify that they do not hold any accounts for individuals or entities included in the United Nations Security Council's lists of suspected terrorists, which are updated and distributed regularly.",
+            "generated_answer": "Supervised entities must ensure they do not maintain any accounts for individuals or organizations appearing on lists of those suspected of having terrorist links, which are approved and periodically circulated by the United Nations Security Council. These lists include names determined relevant under Section 23(a) of the Unlawful Activities (Prevention) Act, 1967.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you detail the due dates and reporting obligations for banks concerning the renewal of safe deposit locker contracts with current clients?",
+            "ground_truth_answer": "By April 30, 2023, banks need to inform all their customers about the updated rules for safe deposit lockers. Furthermore, they need to make sure that a minimum of 50% of current customers have signed the updated agreements by June 30, 2023, and 75% by September 30, 2023. Banks should also submit a monthly report on their compliance through the Reserve Bank's DAKSH supervisory portal.",
+            "generated_answer": "Banks must ensure that any contract renewals or modifications regarding safe deposit lockers accessible by individuals need to be communicated through appropriate channels. Banks should also remind customers about the necessity of updating their account details if there have been changes since the last communication, such as alterations made at tax offices after filing returns. Furthermore, banks must report all instances where they cannot provide access keys within three hours due to customer requests every quarter; these reports must include data from the previous year for comparison.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "How much additional time do Primary (Urban) Co-operative Banks (UCBs) have to comply with the updated Priority Sector Lending (PSL) requirements, and what rewards are offered for early compliance?",
+            "ground_truth_answer": "To alleviate implementation hurdles, the deadline for Primary (Urban) Co-operative Banks (UCBs) to meet the updated Priority Sector Lending (PSL) targets has been extended by 24 months, now ending on March 31, 2026. UCBs that had achieved the mandated goals by March 31, 2023, will be eligible for certain benefits.",
+            "generated_answer": "Primary (Urban) Co-operative Banks (UCBs), as defined by Section 3(1)(viii) of the Banking Regulation Act, 1949, will be given an extension of two years beyond the timelines specified in existing guidelines regarding Priority Sector Lending (PSL). This revised timeline now aligns more closely with that of Scheduled Commercial Banks. The UCBs demonstrating excellence in meeting PSL targets before March 31, 2023, may also qualify for special recognition at their own discretion or upon review during statutory inspections conducted after April 1, 2023. However, these banks must still adhere to the overall deadline set by regulatory authorities for achieving the required PSL norms under extant statutes governing priority sector lending.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe what is considered as credit exposure for Urban Co-operative Banks (UCBs), and what items are not included in this definition?",
+            "ground_truth_answer": "In the context of Urban Co-operative Banks (UCBs), credit exposure encompasses both funded and non-funded credit facilities, along with underwriting obligations, equipment leasing arrangements, hire purchase agreements, and any temporary credit extensions approved for borrowers. Nevertheless, it does not cover loans or advances that are secured by the bank's own fixed deposits. The calculation of the credit exposure limit is based on either the approved credit limit or the outstanding balance, depending on which is greater.",
+            "generated_answer": "For Urban Co-operative Banks (UCBs), credit exposure encompasses funded exposures like loans and advances. It also includes non-funded exposures such as letters of credit or guarantees that UCB would be obligated to pay out if invoked upon. However, investments made by UCBs in shares, debentures, bonds issued by other entities within their regulatory scope, and inter-bank claims drawn up against any part of these securities do not constitute fund-based lending activities covered under the definition of 'credit'. These types of transactions should instead fall under investment portfolio guidelines rather than being treated as credit where risk weighting applies.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Could you describe the main categories of restrictive actions mandated by the UN Security Council's ISIL (Da'esh) and Al-Qaida Sanctions List?",
+            "ground_truth_answer": "The restrictive measures enforced through the ISIL (Da'esh) and Al-Qaida Sanctions List involve freezing of assets, prohibition of travel, and an embargo on arms for designated individuals and organizations.",
+            "generated_answer": "The UNSC ISIL (Da'esh) and Al-Qaida Sanctions List includes entities subject to assets freeze, travel ban, and arms embargo. These measures aim to disrupt their operations and finances through international cooperation.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Could you describe the advantages of interest subvention and the loan amounts available to farmers using Kisan Credit Cards for short-term loans under the Modified Interest Subvention Scheme?",
+            "ground_truth_answer": "The Modified Interest Subvention Scheme offers farmers short-term crop loans and loans for related activities up to \u20b93 lakh via Kisan Credit Cards (KCC) at a reduced interest rate. An extra 3% annual interest subsidy is given to farmers who repay promptly, bringing the effective interest rate down to 4% annually. These advantages apply to a sub-limit of \u20b92 lakh per farmer engaged in animal husbandry, dairy, fisheries, and beekeeping.",
+            "generated_answer": "The Government of India has introduced an enhanced interest subvention scheme where banks provide lower-interest credit directly to agricultural activities. For direct benefits accruing from agriculture or allied sectors like dairy and fisheries, credit up to \u20b92 lakh per borrower can be granted at a concessional rate below 4% p.a., benefiting over 15 crore small and marginal farmers. The subvented amount exceeding \u20b930,000 but less than \u20b92 lakh may attract interest rates ranging between 7-9%, depending on various factors including eligibility criteria set by states/agencies/NGO's/non-farm enterprises etc. Under this modified scheme, these concessional terms apply even when linked against existing crop seasons as well as fresh crops planted during October-December every year until March next year.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "For what particular investment instruments is the Scheme for Trading and Settlement of Sovereign Green Bonds within India's International Financial Services Centre designed?",
+            "ground_truth_answer": "The Scheme is applicable to investments by qualified investors within India's International Financial Services Centre (IFSC), focusing on Sovereign Green Bonds released by the Indian Government.",
+            "generated_answer": "The Scheme facilitates trading and settlement of sovereign green bonds issued by the Government of India within the IFSC. This includes both permissible investments eligible under Section 2(a) of IDPSL-2014, as well as all long-term bond issuances from GOI outside the United Arab Emirates during specific dates. The scheme aims to provide investors access to these securities through an efficient, technologically advanced platform within the IFSC infrastructure established by ICICI Securities Ltd., supported financially by the Reserve Bank of India.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What limitations does the Foreign Exchange Management Act (FEMA) of 1999 impose on foreign exchange dealings?",
+            "ground_truth_answer": "According to the Foreign Exchange Management Act (FEMA) of 1999, individuals are not allowed to engage in foreign exchange transactions or transfer foreign currency to anyone who is not an 'Authorised Person,' unless the Reserve Bank of India specifically allows it.",
+            "generated_answer": "The Foreign Exchange Management Act (FEMA) regulates transactions involving convertible currencies. While it generally allows free flows of capital for permissible purposes without restrictions from government departments or agencies outside specific exemptions like investments by foreigners in Scheduled Commercial Banks, certain activities such as money lending between individuals within India are prohibited except through regulated institutions under FEMA.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Can you identify the lead bank for the Sarangarh-Bilaigarh district in Chhattisgarh, and also specify the districts from which it was formed?",
+            "ground_truth_answer": "State Bank of India is the designated lead bank for the Sarangarh-Bilaigarh district. This district was formed by partitioning the Raigarh and Baloda Bazar \u2013 Bhatapara districts.",
+            "generated_answer": "The State Bank of India holds the lead bank responsibility for the newly created Sarangarh-Bilaigarh district within Chhattisgarh. This district encompasses portions of old Satewari and Bilgrami districts.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the reporting obligations for Urban Co-operative Banks (UCBs) regarding loans issued to their directors?",
+            "ground_truth_answer": "UCBs are required to report details of loans to directors to the relevant Regional Office of the Department of Supervision, Reserve Bank of India, within 15 days of the conclusion of each quarter (end of March, June, September, and December). This also encompasses loan information for Administrators, Persons-in-Charge, or Special Officers, and their family members, if the UCB is operating under such administration.",
+            "generated_answer": "Urban Co-operative Banks must report all loans granted by them to individual or firms/concerns where any director has an interest as per Section 19(2)(b) & Rule 3(2)(ii) of the Banking Regulation Act. The loan amount includes both funded and non-funded credit exposures such as bills discounted/ purchased held in the books that have not been released from the bank's drawing power. These reports should be submitted along with audited annual accounts of UCBs at least once every quarter while they are being wound up and prior to commencement of business during the year after winding-up application was filed. A declaration signed under penalty shall accompany each statement unless verified independently. If no loans were availed by relatives of Directors, 'NIL' should also be reported. The Director / Managing Director who had sanctioned these advances will explain its reasons if questioned.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In applying for the compounding of a contravention, what confirmations and commitments must an applicant make concerning potential or ongoing scrutiny, probes, or judgments by the Directorate of Enforcement?",
+            "ground_truth_answer": "In the process of applying for the compounding of a contravention, the applicant is required to affirm their status concerning any ongoing enquiry, investigation, or adjudication by the Directorate of Enforcement as of the application date, and if applicable, must elaborate on the details in an attached annexure. Furthermore, they must pledge to promptly notify the Compounding Authority or Reserve Bank of India should any such proceedings be initiated against them prior to the issuance of the compounding order. The applicant is also expected to verify that no adjudication order has been decreed by the Adjudicating Authority pertaining to the contraventions specified in their compounding application, and they are obligated to inform the Compounding Authority/RBI if such an order is indeed passed before the compounding order is issued.",
+            "generated_answer": "When submitting an application for compounding a contravention under FEMA 2014 that may also be subject to review/examination/ongoing operation/probe by the Directorate of Enforcement, applicants should confirm whether any such reviews/expeditions/probes already exist. If so, they must provide details in their own submissions within separate annexes and include relevant case numbers if known. The applicant must commit to inform the Compounding Authority/Directorate of Enforcement immediately upon learning of any new proceedings initiated against them regarding the same transactions involved in the compounding application. They should also undertake not to seek further guidance from the Reserve Bank regarding approvals required for these transactions until the completion of all available legal proceedings pertaining to the transaction itself.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you explain who qualifies as a Politically Exposed Person (PEP) and provide some typical examples of positions that would lead to this classification?",
+            "ground_truth_answer": "Individuals who hold significant public positions in foreign countries are known as Politically Exposed Persons (PEPs). Examples include leaders of countries or governments, high-ranking politicians, top-level officials in government, the judiciary, or the military, high-ranking executives in government-owned businesses, and key figures in political parties.",
+            "generated_answer": "A person can be classified as a Politically Exposed Individual if they have been entrusted with senior public functions by their respective countries. This includes current Heads of States or Governments at any level within a country; senior politicians holding offices such as Members of Parliament, Senators, State Assemblies, or Local Authorities for individuals from federative nations like Brazil or Spain; high-ranking government officials including Ministers and Secretaries across various ministries; judges serving in supreme courts, higher judiciary, or appointed judicial posts regardless of tenure length; executives of state-owned corporations involved in economic activities essential for national security or major industries; independent directors of banks defined under Section 102(3)(viii) of the Banking Regulation Act, 1949; members of professional bodies listed in Schedule I and II of the Prevention of Money Laundering Rules, 2005, which include entities linked to organized crime organizations worldwide; other individuals identified by an Inter-Governmental Organization recognized by the United Nations Security Council Resolution No. S/RES/1768 dated December 14, 2007, and included in relevant lists annexed to resolutions concerning terrorist groups operating globally.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Concerning the approval of floating-rate housing loans that are repaid through EMIs, what guidelines must Urban Co-operative Banks (UCBs) follow regarding the borrower's ability to repay and the adjustment of interest rates?",
+            "ground_truth_answer": "When offering housing loans with floating interest rates and EMI payments, Urban Co-operative Banks (UCBs) must evaluate the borrower's ability to repay the loan. This evaluation should account for possible extensions to the loan duration or increases in the EMI amount if benchmark interest rates go up. UCBs should also create guidelines for how they will adjust floating interest rates on these loans.",
+            "generated_answer": "When offering floating-rate housing loans, UCBs should ensure borrowers have sufficient margin after considering normal EMI payments. Additionally, any prepayment penalties charged for reducing the loan amount below its minimum value must be reasonable relative to potential gains if no repayment occurred. The UCB may adjust or waive these penalty charges when the borrower demonstrates strong repayment performance during certain specified periods following switch from fixed rate to floating rate or vice-versa. Borrowers can also choose to increase their EMI without penalty when income increases, provided they maintain an appropriate Margin-to-Loan Ratio (MLR). These provisions do not apply to second mortgage accounts where the original property has been mortgaged again at a higher price due to development work undertaken by public agencies like water/ sewerage/seismographic boards, developmental authorities, local bodies, etc., nor to self-constructed properties pending completion within defined time limits set by State Governments/District Level Development Corporations/Special Purpose Authorities backed by suitable guarantees/deposits.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Following the Reserve Bank's review, what steps should Supervised Entities take concerning their gold loan operations?",
+            "ground_truth_answer": "Following the Reserve Bank's assessment, Supervised Entities are expected to re-evaluate their gold loan strategies, operations, and procedures to detect any shortcomings and take corrective steps. Furthermore, they should diligently oversee their gold loan holdings, particularly given substantial expansion, and guarantee sufficient oversight of delegated functions and external service providers.",
+            "generated_answer": "Supervised Entities must adhere to specific instructions regarding fair practices for gold loans as determined by the Reserve Bank. These guidelines encompass aspects such as transparency, customer protection, and regulatory compliance.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "After districts have been merged, who takes on the lead bank duties?",
+            "ground_truth_answer": "In the scenario of districts merging, the Lead Banks that were already in place will keep handling their duties within the initially separate districts, which now encompass the \u09aa\u09c1\u09a8\u09b0\u09be\u09af\u09bc \u09b8\u0982\u09af\u09c1\u0995\u09cd\u09a4 districts.",
+            "generated_answer": "Following district mergers, the existing Lead Banks continue their responsibilities within the original undivided areas. However, if changes occur that necessitate altering the Lead Banks or coordinating banks for specific regions, these alterations should be decided upon by the District Consultative Committee after consultation with state government authorities, central agencies like Ministries/Departments, law enforcement bodies, public representatives from different political parties, senior civil service officers, economists, academicians, bankers' associations, and other relevant stakeholders. The new responsibility falls on either the State Level Bankers' Council representative(s) or another designated authority at both the center and state levels; this decision must align with local sentiments regarding representation. If no consensus can be reached through consultations involving elected representatives and influential personalities, it becomes an executive decision made jointly by the Regional Office of the Reserve Bank of India (RBI), the Convenor Departmental Officer, and Joint Directors/Members-in-Charge of SLBCs/sub-Regional Offices of RBI.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In the Lower Siang district, which bank holds the lead bank role?",
+            "ground_truth_answer": "The State Bank of India is the designated lead bank for the Lower Siang district.",
+            "generated_answer": "The State Bank of India has been assigned the Lead Bank Responsibility for the newly formed Lower Siang district.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What are the main rules that Regulated Entities need to follow to comply with the Unlawful Activities (Prevention) Act (UAPA) orders and any changes to its schedules?",
+            "ground_truth_answer": "Entities that are regulated must follow the rules in the UAPA Order from February 2, 2021, and make sure they completely follow all orders from the government. They also need to inform FIU-IND about any accounts that look like they belong to people or groups on UAPA lists, and let the Ministry of Home Affairs know if the UAPA notification from February 2, 2021, says they need to. Also, they must follow any changes to Schedule I and IV of the UAPA, 1967.",
+            "generated_answer": "Regulated entities must adhere strictly to the procedures outlined in the UAPA Order dated February 2, 2021. They should also report details of accounts resembling individuals or entities listed under Schedules I & IV of the UAPA, along with relevant information like account numbers and beneficiary names, to FIU-IND and advise the Ministry of Home Affairs as required by Section 53A(6). Furthermore, they must take note of amendments made to Schedule I and IV of the UAPA for immediate implementation.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "In light of the Monetary Policy Committee's resolution, how were the policy repo rate, SDF rate, and MSF rate modified?",
+            "ground_truth_answer": "As a result of the Monetary Policy Committee's decision, the policy repo rate under the LAF increased by 0.25% to 6.50%. In line with this, the SDF rate was set at 6.25%, and the MSF rate was set at 6.75%.",
+            "generated_answer": "The Monetary Policy Committee increased the policy repo rate under the Liquidity Adjustment Facility by 25 basis points. Consequently, the Standing Deposit Facility rate was adjusted accordingly from 6.00 percent to 6.25 percent. The Marginal Standing Facility rate also followed suit, being raised by an equal amount, resulting in a new rate of 6.75 percent. These changes came into effect starting May 4, 2023.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "Is it necessary for Authorised Dealer Category-I banks to obtain permission from the Reserve Bank of India to operate as a Payment Aggregator-Cross Border (PA-CB)?",
+            "ground_truth_answer": "Banks with Authorised Dealer (AD) Category-I status are allowed to perform Payment Aggregator-Cross Border (PA-CB) functions, and they do not need separate permission from the Reserve Bank of India (RBI) to do so.",
+            "generated_answer": "Authorised Dealer Category \u2013 I banks are not required to seek prior approval from the Reserve Bank of India when operating as a Payment Aggregator - Cross Border. However, they must provide details of their business model and any unique features offered by the aggregator platform to the concerned Regional Office of the Department of Regulation at least 30 calendar days before going live or launching new services. This notification also needs to be uploaded onto the Centralized Information Management System (CIMS).",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What steps are banks expected to take concerning accounts that are no longer in use?",
+            "ground_truth_answer": "In the event that an account is no longer active, banks are required to make an effort to find the account holder or their legal successors. The purpose of this search is to notify them of the existing funds and to motivate them to reactivate the account. Furthermore, banks should regularly check these inactive accounts to find and reduce possible dangers like fraud or improper use.",
+            "generated_answer": "Banks should undertake an annual review of dormant or unclaimed accounts. They must also establish procedures for dealing with customers who wish to resume using their accounts after some time has passed without activity. Additionally, measures need to be put into place regarding account closures where there's been insufficient transactional activity beyond reminders sent via various channels like SMS/email/phone calls over multiple days before final closure if customer hasn't withdrawn funds.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What functions can Infrastructure Debt Fund-NBFCs (IDF-NBFCs) perform?",
+            "ground_truth_answer": "IDF-NBFCs can provide refinancing for infrastructure ventures that have been up and running for at least a year. Additionally, they can act as direct financiers for toll operate transfer (TOT) projects.",
+            "generated_answer": "Infrastructure Debt Fund-Non-Banking Financial Companies (IDF-NBFCs), as defined by paragraph 2.157 of Master Direction \u2013 Non-bank NBFC-Investment & Credit Company (NBFC-I&C) Sectoral, may provide finance directly or indirectly for infrastructure projects within their asset class, including commercial real estate-backed securitizations that qualify as direct lending. They also have the authority to participate as investors in debt funds established solely to invest in infrastructure assets under specific conditions specified elsewhere in this document. Additionally, IDF-NBFCs can act as investors in Commercial Real Estate Investment Trusts/Commercial Real Estate Mortgage-Backed Securities entities provided they adhere to all applicable provisions concerning these investments.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What limitations are placed on Urban Co-operative Banks (UCBs) concerning the provision of loans and the undertaking of investments related to Perpetual Non-Cumulative Preference Shares, Tier-II preference shares, Perpetual Debt Instruments, and Long Term Subordinated Bonds?",
+            "ground_truth_answer": "UCBs cannot provide loans to anyone for the purpose of buying Perpetual Non-Cumulative Preference Shares (PNCPS), Tier-II preference shares, Perpetual Debt Instruments (PDI), or Long Term Subordinated Bonds (LTSB), whether issued by themselves or other banks.  Also, UCBs are not allowed to invest in PNCPS (Tier-I), other Preference shares (Tier-II), Long Term (Subordinated) Deposits (Tier-II), PDI, and LTSB offered by other banks, nor can they give loans using these instruments as collateral.",
+            "generated_answer": "Urban Co-operative Banks' (UCBs') total exposure to all forms of capital instruments categorized as 'Tier I', including Perpetual Non-Cumulative Preference Shares (PNCPS), cannot exceed 10% of their paid-up share\u8d44\u672c. Additionally, UCBs must ensure that their aggregate investment in these instruments within any given issue does not surpass five percent of the bank's paid-up equity capital after considering existing holdings and potential new investments. Furthermore, an additional limit applies for specific issues where the outstanding amount exceeds ten times the bank's net worth; this upper ceiling is set at twenty-five percent of net owned fund (NOF). For other permissible debt or long-term subordinated bond instruments classified under Tier II capital beyond PNCPS, there's no constraint regarding individual or group limits until the point where such claims form more than fifteen per cent of the UCB's CET-1 capital. However, if the combined exposures from multiple sources exceeding ten times NOF also constitute part of the bank\u2019s capital funds but do not qualify as Tier-I capital, they will be included along with the single highest unrounded figure when determining compliance against the overall thirty per cent ceiling.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In determining which branches to audit, what proportion of the overall advances should be represented, and what additional factors are relevant?",
+            "ground_truth_answer": "For branch audit selection, a minimum of 70% of the total outstanding advances needs to be encompassed. This selection should mandatorily include the top 20 branches or the top 20% of branches for banks that have less than 100 branches, contingent on their outstanding advances. Moreover, branches that are potentially involved in fraudulent activities or exhibit questionable transactions should be audited, alongside branches demonstrating a loan or business expansion of 50% or greater compared to the previous year.",
+            "generated_answer": "When auditing an entire bank or joint account at multiple branches for regulatory compliance purposes, auditors typically examine records from 20% of total branch transactions. To ensure adequacy, banks must maintain sufficient copies of transaction documents across all business locations; failure to do so may result in audits covering more than half of the total transactions. For specialized accounts like gold deposits where funds remain unaccounted after seven days, full coverage applies upon request by regulators.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Why aren't working capital loans to construction firms functioning as contractors classified as Commercial Real Estate (CRE) exposures?",
+            "ground_truth_answer": "The rationale for not classifying loans to construction companies operating as contractors as Commercial Real Estate (CRE) exposures lies in the fact that their repayment is contingent upon progress-linked payments stipulated in their contracts.",
+            "generated_answer": "Working capital facilities extended by lenders to construction companies acting as contractors for government or state projects should not be categorized under Commercial Real Estate (CRE) exposure. This classification depends on whether builders/developers retain possession of properties until completion, handing it over only upon full repayment; if they don\u2019t, such advances can be treated similarly to Core Investment Banking business exposures.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Following the compounding and collection of a contravention sum, what certification does the RBI provide?",
+            "ground_truth_answer": "Once the Reserve Bank of India receives the compounded amount for a violation, it provides a certificate, which might include certain conditions as part of the order.",
+            "generated_answer": "Upon completing the process for compounding an offence involving payment of a specified amount, the relevant Regional Office of the RBI issues a certificate confirming that all conditions stipulated by the RBI have been satisfied. This serves as conclusive evidence when applying for reopening or resumption of business under FEMA 1999 guidelines. Additionally, banks must present this certificate whenever questioned about their compliance status during inspections from regulatory authorities such as the RBI or Enforcement Directorate.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What is the legal basis for the issuance of this circular?",
+            "ground_truth_answer": "This circular's issuance is authorized by Section 18 in conjunction with Section 10, subsection 2 of the Payment and Settlement Systems Act of 2007.",
+            "generated_answer": "This circular is issued under Section 10(4) read with Sections 2(g), 36A and 57 of the Banking Regulation Act, 1949.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Why is the Second Schedule of the Reserve Bank of India Act, 1934 important for banks?",
+            "ground_truth_answer": "The Second Schedule of the Reserve Bank of India Act of 1934 contains a list of banks that have convinced the RBI that they hold a certain amount of capital and reserves. They also manage their operations in a way that safeguards the interests of those who deposit money in the bank. A bank's presence on this list makes it eligible for particular benefits and accommodations from the RBI, including the ability to take loans and be known as a scheduled bank.",
+            "generated_answer": "The Second Schedule to the Reserve Bank of India Act, 1934 lists banks that have satisfied certain criteria and been authorized by the RBI as scheduled banks. Scheduled banks enjoy privileges such as access to borrowing facilities from the RBI at the bank rate plus their risk margin, clearing house membership, settlement through RTGS/NACH/IMPS systems, and eligibility for government-guaranteed deposits up to \u20b950 crore. Non-scheduled commercial banks can also operate under these conditions if approved by the RBI's Department of Regulation after meeting specific guidelines regarding capital adequacy, management quality, and operational efficiency.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What settlement choices are detailed in the guidelines for managing non-performing assets?",
+            "ground_truth_answer": "The guidelines cover compromise settlements, negotiated settlements, and one-time settlements as ways of handling non-performing assets.",
+            "generated_answer": "The guidelines address compromise settlements, negotiated settlements, and foregone amounts.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Do Asset Reconstruction Companies need approval to appoint or reappoint Directors, Managing Directors, or CEOs? If so, from whom?",
+            "ground_truth_answer": "For the appointment or reappointment of Directors, Managing Directors, or Chief Executive Officers, Asset Reconstruction Companies must seek prior authorization from the Reserve Bank of India.",
+            "generated_answer": "Asset Reconstruction Companies do not require prior approval from any authority for appointments or repostings of employees at all levels. However, before an individual can be appointed as Director/Managing Director/CeO, they must obtain certification from the Reserve Bank confirming their eligibility after verification. The Board of Directors approves these appointments without needing separate concurrence from shareholders. A person cannot serve concurrently as both CEO/Director & MD unless explicitly permitted by other regulatory guidelines like Statutory Auditor appointments under Section 14A(2).",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What is the rationale behind phasing out the incremental CRR (I-CRR), and what is the method for releasing the corresponding funds?",
+            "ground_truth_answer": "To prevent abrupt disruptions to systemic liquidity and maintain orderly money market operations, the Reserve Bank of India (RBI) has chosen to phase out the incremental Cash Reserve Ratio (I-CRR). The funds held under the I-CRR will be released gradually, depending on evaluations of the existing and changing liquidity situation.",
+            "generated_answer": "To mitigate liquidity strains during crucial times like the Global Financial Crisis and provide greater flexibility to banks, the Incremental Cash Reserves Ratio (I-CRR) was phased out between March 31, 2025, and September 30, 2026. The release of funds linked to this I-CRR phase-out would occur simultaneously when similar deferred reliefs were implemented.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you identify the primary banking institution for Balotra and its corresponding district working code?",
+            "ground_truth_answer": "As the primary financial institution, the State Bank of India is responsible for Balotra, a recently established district, and its designated district working code is 01X.",
+            "generated_answer": "The principal bank associated with Balotra is Punjab National Bank, and the district working code allotted to it is 504.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What capabilities does the APConnect app offer to organizations involved in foreign exchange and money transfer activities?",
+            "ground_truth_answer": "APConnect facilitates new company and Authorized Person registration and licensing, branch registration, temporary money changing services, franchisee operations, Indian Agent authorization under MTSS, FFMC upgrades to non-bank AD Cat-II status, license renewals, Foreign Currency and Nostro Account openings for qualified entities, voluntary license surrenders, foreign currency note write-offs, and Returns/Statements submissions.",
+            "generated_answer": "The APConnect app allows entities engaged in Foreign Exchange (Forex), Money Transfer Services (MTS), or Merchant Banking under ROWA-III to conduct their business by providing access to features such as account statement generation, FX deals execution, MTS transaction processing, reporting/statistics analysis, and KYC updates. These operations must adhere strictly to extant legal statutes and regulatory guidelines issued by relevant authorities within India.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "When Small Finance Banks transition to Universal Banks, what are the stock exchange listing stipulations?",
+            "ground_truth_answer": "For Small Finance Banks seeking to convert to Universal Banks, a prerequisite is the listing of their shares on a recognized stock exchange.",
+            "generated_answer": "Small Finance Banks transitioning to Universal Banks must have all their paid-up equity shares listed on either the National Stock Exchange of India Ltd. or the Bombay Stock Exchange Inc., unless they meet specific criteria for exclusivity under paragraph 57(1)(b). These banks can also apply to list additional securities on other recognized stock exchanges within three years from the date of becoming a UGB, provided they fulfill any conditions required by those exchanges. The decision regarding where to seek exclusive listing remains at the bank's discretion; however, only one primary market will be considered open after conversion.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "When banks engage in transactions and have exposures involving Non-Banking Financial Companies (NBFCs) within their own group, what specific guidelines are they mandated to comply with?",
+            "ground_truth_answer": "To mitigate potential risks to the bank and the broader financial system, banks are required to follow the 'Management of Intra-Group Transactions and Exposures' guidelines when conducting transactions and managing exposures with Non-Banking Financial Companies (NBFCs) within their group.",
+            "generated_answer": "Banks must adhere to Guidelines for Credit Facilities/Investments Exposures to Group Concerns when dealing with entities within their corporate or other groups. These guidelines ensure sound lending practices by addressing concentration risk across various business areas.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "How does the Banking Regulation Act of 1949 generally affect banking firms operating in India?",
+            "ground_truth_answer": "The Banking Regulation Act enacted in 1949 is the primary law that controls how banking companies in India operate, including their management, financial soundness, and operational guidelines.",
+            "generated_answer": "The Banking Regulation Act of 1949 governs the operations of banks within India, setting standards for their establishment, regulation, management, and supervision. Compliance ensures adherence to regulatory guidelines designed to maintain stability in the banking system and protect depositors' interests.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What is the procedure for Nodal/Focal Point branches to report transactions from April 2023, and how should these be distinguished from any remaining transactions from March in their reports?",
+            "ground_truth_answer": "Branches serving as Nodal/Focal Points are required to provide Zonal Accounts Officers/Pay and Accounts Officers with a monthly report detailing April's transactions, following the standard procedure. To distinguish transactions from April (fiscal year 2023-24) from those residual transactions of March, the report for March Residual Transactions should be explicitly labeled as such.",
+            "generated_answer": "Nodal/Focal Point branches must submit daily statements reflecting both transactions processed before or up to March 31, 2023, which were reported by banks through the XBRL site as of March 31, 2023. Additionally, they need to provide separate statements specifically for reporting all other transactions pertaining to receipts and payments occurring from April 1, 2023 onwards. The branch code used for reporting purposes remains unchanged.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "How should regulated organizations process requests to be taken off the Security Council's ISIL (Da'esh) and Al-Qaida Sanctions List, and what other avenues exist for those wanting to be removed?",
+            "ground_truth_answer": "Organizations under supervision must direct delisting requests to the Joint Secretary (CTCR) at the Ministry of Home Affairs. Those wanting to be removed from the Security Council's ISIL (Da'esh) and Al-Qaida Sanctions List have the option to apply to an independent Ombudsperson designated by the United Nations Secretary-General.",
+            "generated_answer": "Regulated entities must forward any delisting requests they receive electronically from authorized users or representatives thereof to the Joint Secretary (CTCR), MHA for consideration. Individuals can also submit their delisting request directly to an independent Ombudsperson appointed by the United Nations secretary-general.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What is the required method for Credit Information Companies to provide individuals with their entitled free annual credit report?",
+            "ground_truth_answer": "To ensure individuals can easily obtain their Free Full Credit Report, along with their credit score, once annually between January and December, Credit Information Companies are required to feature a clearly visible link on their website's main page.",
+            "generated_answer": "Credit Information Companies must communicate available options regarding access to the Free Annual Credit Report via mail or SMS. Individuals can claim their entitlement through an online facility provided by Credit Information Companies during April, June, September, and December each year; claims submitted before March 31st will be credited to the account as of that date. Claims post-February 28th require payment at time of submission but remain eligible until March 31st of the same year. The process includes verifying details entered from a downloadable form containing unique codes corresponding to specific years/months/claims. If there's no change to previous selections when claiming another free report within the same calendar year, no code needs to be selected. For amendments like incorrect name/address/mobile number/email address/contact information, only the updated details should be furnished without any codes.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "What steps should card-issuing banks take to activate Card-on-File (CoFT) token creation, and what are the essential conditions for user authorization and token accessibility?",
+            "ground_truth_answer": "To facilitate Card-on-File (CoFT) token creation, card issuing banks can utilize their mobile and internet banking platforms, ensuring they secure explicit customer consent verified through Additional Factor Authentication (AFA). A single AFA validation can cover multiple merchants if the cardholder chooses to tokenize with several. Subsequently, these tokens should be accessible to the cardholder on the merchant's payment interface within their account.",
+            "generated_answer": "To facilitate seamless customer experience, card-issuing banks must enable easy activation of CoFT token generation through mobile/internet banking channels. This requires explicit customer consent, validated via AFA authentication or OTP sent from the bank's Core Banking System (CBS). The option to generate tokens across different devices used by customers needs to be available within these platforms. Additionally, cards issued using EMV technology can utilize dual-factor authentication during transaction validation if both factors have been verified before tokenization.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "How should Regulated Entities comply with the Unlawful Activities (Prevention) Act (UAPA) Order?",
+            "ground_truth_answer": "Entities that are regulated must follow the rules in the UAPA Order about the people or groups mentioned, making sure they carefully and completely follow government orders. They also need to inform FIU-IND about any accounts that look like they belong to those listed and let the Ministry of Home Affairs know, as the UAPA notification says.",
+            "generated_answer": "Regulated entities must adhere strictly to the procedure for implementing Section 51A of the Master Direction on Know Your Customer as amended under UAPA notifications. They also need to meticulously implement amendments made to Schedules I and IV of the UAPA notification without any delays or reservations.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "In Hojai district, which bank holds the lead bank role?",
+            "ground_truth_answer": "State Bank of India is the designated lead bank for Hojai district.",
+            "generated_answer": "The State Bank of India has been assigned the Lead Bank Responsibility for Hojai district.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "What actions can banks implement to streamline the process of activating dormant or blocked accounts?",
+            "ground_truth_answer": "To make reactivating dormant accounts easier, banks should allow customers to update their KYC information via online and mobile banking, at branches other than their home branch, or through VCIP. Banks should also be understanding when reactivating accounts used for government benefits and run specific campaigns to encourage reactivation. Furthermore, banks can help customers update their Aadhaar information at branches that offer Aadhaar services.",
+            "generated_answer": "To facilitate KYC updates for customers, banks should ensure that forms used for activation/deactivation of dormant/Blocked Accounts do not require customer service staff approval beyond branch level. Banks may also consider allowing Aadhaar updation at all branches without requiring Aadhaar codes from customers. Additionally, some banks have implemented special campaigns like 'Sankalp 2.0' which aim to activate around one crore inactive bank accounts every quarter by providing counseling services through various channels such as mobile vans equipped with biometric facilities across the country.",
+            "evaluation_score": 0
+        },
+        {
+            "question": "Could you describe the objective of the Reserve Bank of India's Master Direction concerning the structure and transparency of financial statements?",
+            "ground_truth_answer": "This Master Direction serves to standardize the guidelines for how banks present and disclose information in their financial statements.",
+            "generated_answer": "The Reserve Bank of India issued its Master Direction regarding the Format, Presentation & Transparency in Financial Statements. This direction aims to enhance consistency across banks' published annual reports by standardizing disclosures for all public limited commercial banks in India. It ensures that information about a bank's economic substance remains comprehensible even when comparing data from different entities or over time within the same entity. The updates address suggestions from stakeholders and align the disclosure standards with International Accounting Standards where applicable.",
+            "evaluation_score": 1
+        },
+        {
+            "question": "How does the Reserve Bank of India recommend participants in the Government Securities market use the e-Kuber platform's \"Price / Yield range setting\" facility, and what is their stance on bid cancellations?",
+            "ground_truth_answer": "To avoid unintentional errors, the RBI suggests that all Government Securities market participants use the \"Price / Yield range setting\" feature on the e-Kuber platform when placing bids in Primary Market auctions. Once the bidding period ends, requests to cancel bids will not be permitted.",
+            "generated_answer": "The Reserve Bank of India recommends that all participants in the Government Securities auction process utilize the 'Price/Yield range setting' facility available within the platform. This feature helps prevent fat-finger errors by allowing users to define acceptable values for bids they intend to submit during an auction. The bank also clarifies that there should be no instances of bid cancellation after submission; any requests for bid cancellation must come from secondary market buyers or investors who failed to participate due to unforeseen circumstances like system failures before 15 minutes into the auction.",
+            "evaluation_score": 1
+        }
+    ],
+    "evaluation_summary": {
+        "total_evaluations_attempted": 100,
+        "successful_evaluations": 100,
+        "failed_evaluations_due_to_error": 0,
+        "total_passed_criteria": 35,
+        "percentage_passed_criteria": 35.0,
+        "overall_evaluation_summary": "Out of 100 attempted evaluations, 100 were successfully processed by Gemini. 0 evaluations encountered an error. Among the successfully evaluated answers, 35 met all criteria, resulting in a 35.00% pass rate."
+    }
+}
