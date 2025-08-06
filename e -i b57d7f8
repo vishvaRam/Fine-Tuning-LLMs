@@ -1,0 +1,20 @@
+[33m6599dd6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m running 7B wit r=64 lora_alpha=64
+[33mddaeead[m running 7B wit r=64 lora_alpha=64
+[33mb57d7f8[m[33m ([m[1;31morigin/main[m[33m)[m improving parameters
+[33m0d2518e[m removing compute metrix
+[33mc6904c8[m added more compute_metrics
+[33m63336fb[m using compute_metrics
+[33m4734480[m eval 7B
+[33m31c236b[m training 7B updated
+[33m676544d[m training 7B
+[33m0bb79d4[m training 7B
+[33me7b2735[m training 7B
+[33m3d2705b[m 1000 eval dataset evaluation
+[33mb5a715d[m eval with lr 1e-4 , 4 epochs
+[33m27c416e[m with lr 1e-4 and 4 ephocs
+[33m7130c10[m resolved infinite generation in finetuning and eval
+[33m3edc59a[m 2 epochs run
+[33mb505c55[m after finetuned eval
+[33m017a906[m eval 3B
+[33m22bf09e[m ignore
+[33m83e4c57[m init
