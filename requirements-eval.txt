@@ -9,6 +9,7 @@ accelerate
 datasets
 openai
 peft
+rouge_score
 langchain_google_genai
 cryptography
 # pip install flash-attn --no-build-isolation
