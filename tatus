@@ -1,0 +1,137 @@
+[33mcommit f792b66315829c03179af5e8529221140914cd78[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sat Sep 27 17:15:21 2025 +0530
+
+    unsloth training
+
+[33mcommit 9fb0bce91986823ad7a8dd11daab1e5c19f58c08[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sat Sep 27 13:46:34 2025 +0530
+
+    eval llama3.2 3B
+
+[33mcommit e0a49d2276b8dae32f6ecb6a4ff80e061448c708[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sun Aug 31 22:54:28 2025 +0530
+
+    async gemini with new config trained LLM
+
+[33mcommit f82f188a77bebc55d26777962d8f530092138339[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Wed Aug 6 22:46:27 2025 +0530
+
+    eval run for 7b
+
+[33mcommit 030ac3b69397f5af0361ac858573cd8ce30be130[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Wed Aug 6 08:03:10 2025 +0530
+
+    7B run
+
+[33mcommit 7701bf13d3b8b40a4b31b4339093ba321c7ae4ee[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Wed Aug 6 07:55:32 2025 +0530
+
+    7B r=64
+
+[33mcommit d048006bb56b24530affb75e05cd8542b47bb91f[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Wed Aug 6 07:42:49 2025 +0530
+
+    running 7B wit r=64 lora_alpha=64
+
+[33mcommit 3f559c099e3cc0f55ec7f1ece3278d8b07c1e12e[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Tue Aug 5 20:31:13 2025 +0530
+
+    removing compute metrix
+
+[33mcommit a2ea25d1408d2b5118d1ce79109aa2344adb57c0[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sun Jul 27 12:42:41 2025 +0530
+
+    added more compute_metrics
+
+[33mcommit 0708abcf9ad78c1b5de3db134d21cfbe4759c62f[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sun Jul 27 10:50:01 2025 +0530
+
+    using compute_metrics
+
+[33mcommit c6731aef466ff174571e98d8f827ff542f235a61[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Thu Jul 17 00:07:08 2025 +0530
+
+    eval 7B
+
+[33mcommit fcd97b9ce0f1400f54204eec47ecc5b9d217d411[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Thu Jul 17 00:00:37 2025 +0530
+
+    training 7B updated
+
+[33mcommit dff0ef1fd5574c7193fa127dc93868377c860ffc[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Wed Jul 16 23:53:55 2025 +0530
+
+    training 7B
+
+[33mcommit 6d56fa028e5a3674c446dbb153be306e6f7e370a[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Wed Jul 16 21:05:36 2025 +0530
+
+    training 7B
+
+[33mcommit 3d2705bfce7c01e011464eb3c5177ffba40154a4[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Tue Jul 15 14:21:49 2025 +0530
+
+    1000 eval dataset evaluation
+
+[33mcommit b5a715df11f1563c9e671a28314dc72288d61b59[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sat Jul 12 19:18:04 2025 +0530
+
+    eval with lr 1e-4 , 4 epochs
+
+[33mcommit 27c416e8ad69b8de9fbbd1421d5f3385f60f31e3[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sat Jul 12 18:33:26 2025 +0530
+
+    with lr 1e-4 and 4 ephocs
+
+[33mcommit 7130c10dda83f73bc56194cc6e235a4468ea8ea6[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sun Jul 6 18:59:18 2025 +0530
+
+    resolved infinite generation in finetuning and eval
+
+[33mcommit 3edc59ac47b84094bcbe39c23cd9e9445c075a72[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sun Jul 6 12:57:45 2025 +0530
+
+    2 epochs run
+
+[33mcommit b505c559a99e6c3e16ebaf8af9232ab653491edd[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Sat Jul 5 00:33:37 2025 +0530
+
+    after finetuned eval
+
+[33mcommit 017a90660ccfce90036da8a9b610d29eb460ada6[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Fri Jul 4 23:48:44 2025 +0530
+
+    eval 3B
+
+[33mcommit 22bf09e06d2b6d2a286277a79f58335d476e801f[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Fri Jul 4 23:42:58 2025 +0530
+
+    ignore
+
+[33mcommit 83e4c57a9a8e225b64f93e6da777c4a15cb96f0b[m
+Author: vishvaRam <murthyvishva@gmail.com>
+Date:   Fri Jul 4 23:41:29 2025 +0530
+
+    init
