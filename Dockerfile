@@ -1,4 +1,4 @@
-FROM vishva123/nvdia-cuda-12.6-cudnn-ubuntu24.04-py-3.10-uv
+FROM vishva123/nvdia-cuda-12.4-cudnn-ubuntu22.04-py-3.10-uv:latest
 
 WORKDIR /workspace
 
